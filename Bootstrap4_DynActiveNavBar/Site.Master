@@ -45,7 +45,7 @@
 
                 <%--Example with logo included--%>
                 <%-- <a class="navbar-brand" href="/">
-                    <img src="https://logo_url/logo.png" alt="Homepage RPA Project link">
+                    <img src="https://logo_url/logo.png" alt="Homepage Project link">
                 </a>--%>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="RPA Project Toggle Menu">
